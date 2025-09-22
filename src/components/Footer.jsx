@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react'
 import { Link } from 'react-router-dom'
-import logo from '../assets/logo.png' // Update path as needed
+import logo from '../assets/logo\.png' // Update path as needed
+
 
 export default function Footer() {
   const currentYear = new Date().getFullYear();
