@@ -562,7 +562,7 @@ export default function Navbar() {
   const isDarkBackground = scrollPosition > 20
   const [openDropdown, setOpenDropdown] = useState(null)
 
-  const navItems = [
+  const navItems = React.useMemo(() =>[
     { name: 'Home', path: '/EEA' },
 
     {
@@ -589,7 +589,7 @@ export default function Navbar() {
     { name: 'Teams', path: '/teams' },
     { name: 'Join EEA', path: '/join', isPdf: true }
   ]
-
+  )
   // Track scroll position
   useEffect(() => {
     const handleScroll = () => setScrollPosition(window.scrollY)
