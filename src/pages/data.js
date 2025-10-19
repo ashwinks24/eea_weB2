@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import Adwaiit from "../assets/team/Adwaiit.png";
 import Akshat from "../assets/team/Akshat.png";
 import Kaushal from "../assets/team/Kaushal.png";
@@ -29,30 +28,13 @@ import shaily from "../assets/team/Shaily.png"
 import Utkarsh from "../assets/team/utkarsh.png"
 
 import vanshika from "../assets/team/vanshika.png"
-=======
-import ved from "../assets/team/Vedp.png";
-import riddhima from "../assets/team/Riddhimaj.jpg";
-import ritik from "../assets/team/ritik.png";
-import abhishek from "../assets/team/abhishekt.png";
-import pavi from "../assets/team/Pavig.jpeg";
-import chiranshu from "../assets/team/Chiranshu.jpg";
-import suraj from "../assets/team/suraj.png";
-import shiladitya from "../assets/team/shiladitya.jpg";
-import shivangi from "../assets/team/shivangi.jpg"
->>>>>>> a0cac5340d4cb22b73e216284aec409199bf2fa2
 
 const data = [
     {
         batch:"ug",
-<<<<<<< HEAD
         name: "Adwaiit",
         role: "Overall Head",
         img: Adwaiit,
-=======
-        name: "Riddhima",
-        role: "Overall Head",
-        img: riddhima,
->>>>>>> a0cac5340d4cb22b73e216284aec409199bf2fa2
         socials: {
             linkedin: "https://www.linkedin.com/in/ved-prakash-8b4a1b1a3/",
             instagram: "https://www.instagram.com/vedprakash_226/",
@@ -60,15 +42,9 @@ const data = [
     },
     {
         batch:"ug",
-<<<<<<< HEAD
         name: "Akshat",
         role: "Overall Head",
         img: Akshat,
-=======
-        name: "Abhishek Kumar",
-        role: "Overall Head",
-        img: abhishek,
->>>>>>> a0cac5340d4cb22b73e216284aec409199bf2fa2
         socials: {
             linkedin: "https://www.linkedin.com/in/ved-prakash-8b4a1b1a3/",
             instagram: "https://www.instagram.com/vedprakash_226/",
@@ -76,15 +52,9 @@ const data = [
     },
     {
         batch:"ug",
-<<<<<<< HEAD
         name: "Kaushal",
         role: "Manager Web & Design",
         img: Kaushal,
-=======
-        name: "Ved Prakash",
-        role: "Manager Web & Design",
-        img: ved,
->>>>>>> a0cac5340d4cb22b73e216284aec409199bf2fa2
         socials: {
             linkedin: "https://www.linkedin.com/in/ved-prakash-8b4a1b1a3/",
             instagram: "https://www.instagram.com/vedprakash_226/",
@@ -95,11 +65,7 @@ const data = [
         batch:"ug",
         name: "Ritik Shah",
         role: "Manager Events",
-<<<<<<< HEAD
         img:Kaushal,
-=======
-        img: ritik,
->>>>>>> a0cac5340d4cb22b73e216284aec409199bf2fa2
         socials: {
             linkedin: "https://www.linkedin.com/in/ved-prakash-8b4a1b1a3/",
             instagram: "https://www.instagram.com/vedprakash_226/",
@@ -107,15 +73,9 @@ const data = [
     },
     {
         batch:"ug",
-<<<<<<< HEAD
         name: "Oshita",
         role: "Manager Career & Outreach",
         img: Oshita,
-=======
-        name: "Pavi",
-        role: "Manager Career & Outreach",
-        img: pavi,
->>>>>>> a0cac5340d4cb22b73e216284aec409199bf2fa2
         socials: {
             linkedin: "https://www.linkedin.com/in/ved-prakash-8b4a1b1a3/",
             instagram: "https://www.instagram.com/vedprakash_226/",
@@ -123,7 +83,6 @@ const data = [
     },
     {
         batch:"ug",
-<<<<<<< HEAD
         name: "Aarzoo",
         role: "Manager Events",
         img: Aarzoo,
@@ -217,68 +176,41 @@ const data = [
         name: "Shivam",
         role: "Manager Events",
         img: Shivam,
-=======
-        name: "Chiranshu",
-        role: "Manager Events",
-        img: chiranshu,
->>>>>>> a0cac5340d4cb22b73e216284aec409199bf2fa2
         socials: {
             linkedin: "https://www.linkedin.com/in/ved-prakash-8b4a1b1a3/",
             instagram: "https://www.instagram.com/vedprakash_226/",
         },
     },
     {
-<<<<<<< HEAD
         batch:"ug",
         name: "Sahasra",
         role: "Manager Events",
         img: Sahasra,
-=======
-        batch:"pg",
-        name: "Suraj Jaiswal",
-        role: "Overall Head",
-        img: suraj,
->>>>>>> a0cac5340d4cb22b73e216284aec409199bf2fa2
         socials: {
             linkedin: "https://www.linkedin.com/in/ved-prakash-8b4a1b1a3/",
             instagram: "https://www.instagram.com/vedprakash_226/",
         },
     },
     {
-<<<<<<< HEAD
         batch:"ug",
         name: "Shivam",
         role: "Manager Events",
         img: Shivam,
-=======
-        batch:"pg",
-        name: "Shivangi Dubey",
-        role: "Overall Head",
-        img: shivangi,
->>>>>>> a0cac5340d4cb22b73e216284aec409199bf2fa2
         socials: {
             linkedin: "https://www.linkedin.com/in/ved-prakash-8b4a1b1a3/",
             instagram: "https://www.instagram.com/vedprakash_226/",
         },
     },
     {
-<<<<<<< HEAD
         batch:"ug",
         name: "Rohan",
         role: "Manager Events",
         img: Rohan,
-=======
-        batch:"pg",
-        name: "Shiladitya Banerjee",
-        role: "Manager Events",
-        img: shiladitya,
->>>>>>> a0cac5340d4cb22b73e216284aec409199bf2fa2
         socials: {
             linkedin: "https://www.linkedin.com/in/ved-prakash-8b4a1b1a3/",
             instagram: "https://www.instagram.com/vedprakash_226/",
         },
     },
-<<<<<<< HEAD
     {
         batch:"ug",
         name: "Mayank",
@@ -422,8 +354,6 @@ const data = [
     //         instagram: "https://www.instagram.com/vedprakash_226/",
     //     },
     // },
-=======
->>>>>>> a0cac5340d4cb22b73e216284aec409199bf2fa2
 ]
 
 export default data;
