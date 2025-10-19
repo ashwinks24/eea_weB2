@@ -22,8 +22,6 @@ import Daksh from "../assets/team/DakshB.png";
 import Shreya from "../assets/team/Shreya.png";
 import Trisha from "../assets/team/Trisha.png";
 import Utham from "../assets/team/utham.png";
-import suraj from "../assets/team/suraj.png";
-import shiladitya from "../assets/team/shiladitya.jpg";
 import shaily from "../assets/team/Shaily.png"
 import Utkarsh from "../assets/team/utkarsh.png"
 
@@ -63,7 +61,7 @@ const data = [
     },
     {
         batch:"ug",
-        name: "Ritik Shah",
+        name: "Kushal",
         role: "Manager Events",
         img:Kaushal,
         socials: {

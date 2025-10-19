@@ -613,7 +613,7 @@ export default function Navbar() {
         setActiveItem(currentItem.name)
       }
     }
-  }, [location])
+  }, [location,navItems])
 
   // Close mobile menu on outside click
   useEffect(() => {
