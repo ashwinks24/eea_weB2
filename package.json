@@ -1,8 +1,7 @@
 {
   "name": "react-tailwind-css-starter-pack",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://ashwinks24.github.io/eea_weB2",
+  "private": true,  
   "dependencies": {
     "framer-motion": "^12.7.3",
     "headlessui": "^0.0.0",
