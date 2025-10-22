@@ -191,16 +191,6 @@ const data = [
     },
     {
         batch:"ug",
-        name: "Shivam",
-        role: "Manager Events",
-        img: Shivam,
-        socials: {
-            linkedin: "https://www.linkedin.com/in/ved-prakash-8b4a1b1a3/",
-            instagram: "https://www.instagram.com/vedprakash_226/",
-        },
-    },
-    {
-        batch:"ug",
         name: "Rohan",
         role: "Manager Events",
         img: Rohan,
