@@ -588,7 +588,7 @@ export default function Navbar() {
     { name: 'Sponsors', path: '/sponsors' },
     { name: 'Teams', path: '/teams' },
     { name: 'Join EEA', path: '/join', isPdf: true }
-  ]
+  ],[]
   )
   // Track scroll position
   useEffect(() => {
